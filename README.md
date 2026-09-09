@@ -72,7 +72,7 @@ return 0;
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="728" height="283" alt="image" src="https://github.com/user-attachments/assets/7b3f19c7-99ea-466d-8ba8-116007c1702b" />
 
 
 ## Result:
